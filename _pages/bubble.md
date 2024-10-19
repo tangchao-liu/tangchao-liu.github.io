@@ -4,9 +4,23 @@ permalink: /research/bubble/
 layout: single
 ---
 
-Put some pictures of the HUST/CGE and the main videos and power spectrum.
+Description: (just say what you have done)
 
-Description and details about your research project. Don't forget to put some references. 
+Video for 2 vacuum bubble collition: 
+
+Description of the first video......
+
+Video for energy conservation of 1 bubble expansion:
+
+Description ...... 
+
+Video for finite temperature collision:
+
+Description ...... 
+
+
+Main references:
+
 
 <div style="text-align: center;">
   <img src="/files/CGEpicture.png" alt="Experiment Setup for Project 1" />
