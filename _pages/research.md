@@ -30,7 +30,7 @@ redirect_from:
 
 ## Primordial gravitational radiation from first order phase transition in early universe
 - Internship project extended to Bachelor dissertation at Huazhong University of Science and Technology
-- Center for Gravitational Experiments, Wuhan China, 06/2020-08/2020 (internship) and 02/2021-06/2021 (dissertation)
+- Center for Gravitational Experiments, Wuhan China, 06/2020-08/2020 (internship), 02/2021-06/2021 (dissertation)
 - Supervisor: Yiqiu Ma
 
 [Description, simulation videos and figure](/research/bubble/)
