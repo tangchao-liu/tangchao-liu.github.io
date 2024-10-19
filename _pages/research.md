@@ -18,6 +18,7 @@ redirect_from:
 - Internship project for M2 ICFP (2022/2023) at Université Paris-Saclay
 - AstroParticule et Cosmologie, Paris France, 04/2023-07/2023
 - supervisors: Eleonora Capocasa, Matteo Barsuglia
+
 [Quantum noise project](/research/QuantumNoise/)
 
 ## Bound state in Dirac material
