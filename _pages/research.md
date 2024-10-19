@@ -9,5 +9,7 @@ redirect_from:
 
 ## First law of binary mechanics
 Master thesis for M2 High Energy Physics at École Polytechnique
+
 Paris Observatory, Meudon site, 03/2024-07/2024
+
 Supervisor: Dr. Alexandre Le Tiec
