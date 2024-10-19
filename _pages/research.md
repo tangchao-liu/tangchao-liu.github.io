@@ -33,4 +33,4 @@ redirect_from:
 - Centre for Gravitation Experiment, Wuhan China, 06/2020-08/2020 (internship) and 02/2021-06/2021 (dissertation)
 - Supervisor: Yiqiu Ma
 
-
+[Description, simulation videos and figure](/research/bubble/)
