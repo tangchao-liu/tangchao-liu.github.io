@@ -14,4 +14,4 @@ Paris Observatory, Meudon site, 03/2024-07/2024
 
 Supervisor: Dr. Alexandre Le Tiec
 
-- [First law project](/research/FirstLaw/)
+[First law project](/research/FirstLaw/)
