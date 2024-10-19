@@ -18,10 +18,10 @@ This site is constructed to share some of the works done during my research and 
 
 Education
 ======
-*École Polytechnique, Master second year (M2), High Energy Physics, 2023-2024
-*Université Paris-Saclay, Master second year (M2), Internatinoal Centre for Fundamental Physics, Theoretical Physics track, 2022-2023
-*Université Paris-Saclay, Master first year (M1), General Physics, 2021-2022
-*Huazhong University of Science and Technology, Bachelor, 2017-2021
+* École Polytechnique, Master second year (M2), High Energy Physics, 2023-2024
+* Université Paris-Saclay, Master second year (M2), Internatinoal Centre for Fundamental Physics, Theoretical Physics track, 2022-2023
+* Université Paris-Saclay, Master first year (M1), General Physics, 2021-2022
+* Huazhong University of Science and Technology, Bachelor, 2017-2021
 
 
 Getting started
