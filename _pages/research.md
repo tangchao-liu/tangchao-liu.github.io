@@ -12,21 +12,21 @@ redirect_from:
 - Paris Observatory, Meudon France, 03/2024-07/2024
 - Supervisor: Alexandre Le Tiec
 
-[First law project](/research/FirstLaw/)
+[Description and master thesis](/research/FirstLaw/)
 
 ## Quantum noise in ground-based gravitational wave detector
 - Internship project for M2 ICFP (2022/2023) at Université Paris-Saclay
 - AstroParticule et Cosmologie, Paris France, 04/2023-07/2023
 - Supervisors: Eleonora Capocasa, Matteo Barsuglia
 
-[Quantum noise project](/research/QuantumNoise/)
+[Description and internship report](/research/QuantumNoise/)
 
 ## Bound state in Dirac material
 - Internship project for M1 General Physics at Université Paris-Saclay
 - Laboratoire de Physique des Solides, Orsay France, 04/2022-06/2022
 - Supervisors: Andrej Meszaros, Pascal Simon
 
-[Bound state project](/research/BoundState/)
+[Description and internship report](/research/BoundState/)
 
 ## Primordial gravitational radiation from first order phase transition in early universe
 - Internship project extended to Bachelor dissertation at Huazhong University of Science and Technology
