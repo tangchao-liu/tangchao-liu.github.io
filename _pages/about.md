@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "General description"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi. Welcome to my homepage. I'm Tangchao Liu, a graduated master student. During the academic year 2022/2023, I was trained in the Theoretical Physics track of the master second year (M2) program International Centre for Fundamental Physics in Paris, led by École Normale Supérieure and jointly organized by serveral other institutes in the Grand Paris region, including Université Paris-Saclay from which I obtained a first master degree. In 2023/2024 I finished the study in M2 High Energy Physics program at École Polytechnique in Palaiseau, France. 
+
+I'm interested in classical and semi-classical aspects of General Relativity (GR) and gravitation. Specifically the topics that appeal to me the most include, various theoretical and computational techniques in modelling the waveform of binary systems consisting of compact objects, quantum effects in black hole spacetimes and the early universe, the mathematical structure of geometry and algebra in the study of spacetime. 
+
+This site is constructed to share some of the works done during my research and study of the aforementioned subjects. They can be for both research and pedagogical purposes.  
+
+# This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
