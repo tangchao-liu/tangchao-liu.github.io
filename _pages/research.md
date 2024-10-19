@@ -17,12 +17,20 @@ redirect_from:
 ## Quantum noise in ground-based gravitational wave detector
 - Internship project for M2 ICFP (2022/2023) at Université Paris-Saclay
 - AstroParticule et Cosmologie, Paris France, 04/2023-07/2023
-- supervisors: Eleonora Capocasa, Matteo Barsuglia
+- Supervisors: Eleonora Capocasa, Matteo Barsuglia
 
 [Quantum noise project](/research/QuantumNoise/)
 
 ## Bound state in Dirac material
 - Internship project for M1 General Physics at Université Paris-Saclay
 - Laboratoire de Physique des Solides, Orsay France, 04/2022-06/2022
-- supervisors: Andrej Meszaros, Pascal Simon
+- Supervisors: Andrej Meszaros, Pascal Simon
+
+[Bound state project](/research/BoundState/)
+
+## Primordial gravitational radiation from first order phase transition in early universe
+- Internship project extended to Bachelor dissertation at Huazhong University of Science and Technology
+- Centre for Gravitation Experiment, Wuhan China, 06/2020-08/2020 (internship) and 02/2021-06/2021 (dissertation)
+- Supervisor: Yiqiu Ma
+
 
