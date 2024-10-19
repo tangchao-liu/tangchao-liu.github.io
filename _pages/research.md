@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## First law of binary mechanics
-- Master thesis for M2 HEP (2023/2024) at Institut Polytechnique de Paris
+- Master thesis for M2 HEP (2023/2024) at École Polytechnique
 - Paris Observatory, Meudon site, 03/2024-07/2024
 - Supervisor: Alexandre Le Tiec
 
