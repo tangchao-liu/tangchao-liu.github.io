@@ -4,9 +4,9 @@ permalink: /research/FirstLaw/
 layout: single
 ---
 
-Put some pictures of Meudon.
+Put some figures illustrating the idea of the first law.
 
-# project 1
+## Description
 
 Description and details about your research project.
 
