@@ -24,7 +24,7 @@ Around the years 2021 and 2022, after a first research experience as undergradua
 [Description and internship report](/research/QuantumNoise/)
 
 ## Bound state in Dirac material
-- Internship project for M1 General Physics at Université Paris-Saclay
+- Internship project for M1 General Physics (2021/2022) at Université Paris-Saclay
 - Laboratoire de Physique des Solides, Orsay France, 04/2022-06/2022
 - Supervisors: Andrej Meszaros, Pascal Simon
 
