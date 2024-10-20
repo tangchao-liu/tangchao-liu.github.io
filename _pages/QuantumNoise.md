@@ -6,6 +6,7 @@ layout: single
 
 Put the main figures here. Maybe you want to put also the group retreat. 
 
-Description and details about your research project.
+## Description
+Just describe the experience and the science behind it. 
 
-Put the link to the internship report here. 
+More details can be found in the [internship report (2023)](files/M2_ICFPreport.pdf).
