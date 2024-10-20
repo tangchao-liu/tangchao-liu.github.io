@@ -4,6 +4,7 @@ permalink: /research/BoundState/
 layout: single
 ---
 
-Put some pictures of the LPS and the main figures of your internship report.
+## Description
+Describe the experience and the project. 
 
 Description and details about your research project.
