@@ -7,7 +7,9 @@ layout: single
 ## Description
 Describe the experience and the project. 
 
+(Put a link to the report)
+
 <div style="text-align: center;">
-  <img src="/files/CGEpicture.png" alt="Experiment Setup for Project 1" />
-  <p><em>CGE at HUST</em></p>
+  <img src="/files/LPS.png" alt="Experiment Setup for Project 2" />
+  <p><em>The laboratory of Solid State Physics in Orsay, in the south subburb area of Paris</em></p>
 </div>
