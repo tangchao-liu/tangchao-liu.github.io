@@ -5,7 +5,7 @@ layout: single
 ---
 
 <div style="text-align: center;">
-  <img src="/files/ConceptMT.jpeg" alt="concept of MT" style="width:80%; margin:10px;">
+  <img src="/files/ConceptMT.jpeg" alt="concept of MT" style="width:95%; margin:10px;">
   <p><em>  </em></p>
 </div>
 
