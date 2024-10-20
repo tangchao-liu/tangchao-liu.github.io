@@ -4,7 +4,10 @@ permalink: /research/FirstLaw/
 layout: single
 ---
 
-Put some figures illustrating the idea of the first law.
+<div style="text-align: center;">
+  <img src="/files/ConceptsMT.jpeg" alt="Horizontal Figure" style="width:80%; margin:10px;">
+  <p><em>  </em></p>
+</div>
 
 ## Description
 
