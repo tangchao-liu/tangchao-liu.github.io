@@ -7,4 +7,8 @@ redirect_from:
   - /codes
 ---
 
-Let me test if this can work in navigation. 
+## Mathematica notebooks for GR
+
+These notebooks are written for my study of the book *A Relativist's Toolkit: The Mathematics of Black Hole Mechanics* by Eric Poisson. For now a few exercises of chapter 2 have been done by coding. Notebooks for reproducing calculations in the main text of the book are also intended. The list will grow. 
+
+
