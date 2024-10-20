@@ -14,7 +14,7 @@ layout: single
   Your browser does not support the video tag.
 </video>
 
-Description of the first video......
+Description of the first video.....
 
 ### Video for energy conservation of 1 bubble expansion:
 (put the video)
