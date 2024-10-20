@@ -4,6 +4,11 @@ permalink: /research/BoundState/
 layout: single
 ---
 
+<div style="text-align: center;">
+  <img src="/files/ConceptsM1.png" alt="concept of M1" />
+  <p><em>  </em></p>
+</div>
+
 ## Description
 Describe the experience and the project. 
 
