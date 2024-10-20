@@ -11,7 +11,7 @@ layout: single
 
 <div style="text-align: center;">
   <img src="/files/IFT.jpeg" alt="concept IFT for M2 ICFP" />
-  <p><em> The credit of the left figure is due to <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11445/2565418/Status-and-plans-of-the-Virgo-gravitational-wave-detector/10.1117/12.2565418.short" target="_blank">Raffaele Flaminio.</a> </em></p>
+  <p><em> The credit of the left figure is due to <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11445/2565418/Status-and-plans-of-the-Virgo-gravitational-wave-detector/10.1117/12.2565418.short" target="_blank">Raffaele Flaminio</a> .</em></p>
 </div>
 
 ## Description
