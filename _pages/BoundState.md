@@ -7,7 +7,7 @@ layout: single
 ## Description
 Describe the experience and the project. 
 
-(Put a link to the report)
+More details can be found in [Internship report (2022)](/files/M1report.pdf).
 
 <div style="text-align: center;">
   <img src="/files/LPS.jpeg" alt="Experiment Setup for Project 2" />
