@@ -35,4 +35,4 @@ Around the years 2021 and 2022, after a first research experience as undergradua
 - Center for Gravitational Experiments, Wuhan China, 06/2020-08/2020 (internship), 02/2021-06/2021 (dissertation)
 - Supervisor: Yiqiu Ma
 
-[Description, simulation videos and figure](/research/bubble/)
+[Description and simulation videos](/research/bubble/)
