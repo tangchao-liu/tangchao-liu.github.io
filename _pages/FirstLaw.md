@@ -10,7 +10,7 @@ Put some figures illustrating the idea of the first law.
 
 Description and details about your research project.
 
-More details can be found in 
+More details can be found in [Master Thesis (2024)](/files/MT_TangchaoLIU.pdf).
 
 <div style="text-align: center;">
   <img src="/files/meudon1.jpeg" alt="Figure 1" style="width:30%; margin:10px;">
