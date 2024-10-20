@@ -17,12 +17,18 @@ layout: single
 Description of the first video.....
 
 ### Video for energy conservation of 1 bubble expansion:
-(put the video)
+<video width="640" height="360" controls>
+  <source src="/files/OneBubbleTest.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Description ...... 
 
 ### Video for finite temperature collision:
-(put the video)
+<video width="640" height="360" controls>
+  <source src="/files/TwoCollidingBubbles.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Description ...... 
 
