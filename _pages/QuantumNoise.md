@@ -4,7 +4,10 @@ permalink: /research/QuantumNoise/
 layout: single
 ---
 
-Put the main figures here. Maybe you want to put also the group retreat. 
+<div style="text-align: center;">
+  <img src="/files/ConceptsM2.jpeg" alt="concept for M2 ICFP" />
+  <p><em>  </em></p>
+</div>
 
 ## Description
 Just describe the experience and the science behind it. 
