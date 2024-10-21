@@ -15,7 +15,7 @@ layout: single
 </div>
 
 ## Description
-Just describe the experience and the science behind it. 
+The work presented here is done during April to June in 2023, in the research internship as academic requirement towards finishing the master program [M2 ICFP](https://www.phys.ens.fr/en/formations/m2-icfp) (mentioned in the homepage). The internship work is defended on July 2nd 2023 at École Normale Supérieure in Paris. 
 
 More details can be found in the [internship report (2023)](/files/M2ICFPreport.pdf).
 
