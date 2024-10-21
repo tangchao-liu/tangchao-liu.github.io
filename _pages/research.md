@@ -9,7 +9,7 @@ redirect_from:
 
 Around the years 2021 and 2022, after a first research experience as undergraduate research project, I was interested in a broad spectrum of theoretical physics. After taking the General Relativity (GR) courses in Université Paris-Saclay and ENS in Paris, my interest converged to the science of gravitation and cosmology. I first worked in the Virgo group in the lab APC in Paris for an internship in 2023, before finally (re)entering the theoretical GR community in 2024. These experiences all contributed to forming my scientific culture, research style and an overall understanding of the development of modern physics. 
 
-## The first law of mechanics for multipolar particle binary mechanics
+## The first law of mechanics for multipolar particle binary systems
 - Master thesis for M2 HEP (2023/2024) at École Polytechnique
 - Paris Observatory, Meudon France, 03/2024-07/2024
 - Supervisor: Alexandre Le Tiec
