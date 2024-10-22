@@ -5,8 +5,11 @@ layout: single
 ---
 
 ## Description: 
+The project served as a pedagogical research training for undergraduates. It started from a two-month summer internship (remotely) in the Center for Gravitational Experiment (CGE) in Huazhong University of Science and Technology (HUST) in Wuhan, China, from the end of June to end of August in 2020. After one semester of courses, the work was resumed in the last semester as the undergraduate dissertation (in Chinese, unpublished). The dissertation was defended on May 25th 2021 at CGE in HUST. 
 
-During this research, we followed the methods described in [Einstein's paper][1], which introduced the theory of relativity. This approach was further refined in the work of [Hawking and Penrose, 1970][2].
+Motivated by the inflation models and some extensions for the standard model (BSM) of particle physics, it's generally believed that first order phase transition for a scalar field in the early universe, e.g., the inflaton, or the Higgs in BSM, can be a promising source for primordial gravitational wave (GW) background. The work studies a toy model for such a scenario, the collision of two simultaneously nucleated vacuum bubble formed after the quantum turnelling of the scalar field from a false to true vacuum state. Numerical simulations were done by coding in Matlab from scratch, with the typical discretization methods learned from textbooks. The GW power spectrum for the simulated scenario was computed at the end. 
+
+In the two months of 2020 (at home), with no prior experience in numerical physics, I trained myself by reading and doing the exercises in the book, *Numerical Methods for Physics* by Alejandro L. Garcia. Coleman's bound solution [1] as the field profile for vacuum bubble was generalized from 1D to 3D by numerical codes, and test codes for the collision dynamics were executed for 1D and 2D. From February to May in 2021, the collision dynamics for 3D vacuum bubbles were done for both zero and finite temperature, energy conservation for single bubble expansion was tested, and codes were written to project out the transverse-traceless components of metric perturbation for GW power spectrum computation, following the prescription of Garcia-Berllido *et. al* [5]. 
 
 
 ### Video for 2 vacuum bubble collition: 
@@ -39,8 +42,8 @@ Power spectrum of the finite temperature collision:
 
 ## Main references
 
-1. [Einstein, A. (1905). On the Electrodynamics of Moving Bodies. Annalen der Physik.](https://en.wikipedia.org/wiki/Annus_Mirabilis_papers)
-2. Hawking, S., & Penrose, R. (1970). The Singularities of Gravitational Collapse and Cosmology. Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences, 314(1519), 529-548.
+1. 
+2. 
 
 
 
