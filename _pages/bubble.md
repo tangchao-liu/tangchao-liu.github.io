@@ -57,8 +57,12 @@ Finite temperature collision of two simultaneously nucleated vacuum bubbles, for
 
 ## Main references
 
-1. 
-2. 
+1. Sidney Coleman. Fate of the false vacuum: Semiclassical theory. Phys. Rev. D, 15:2929–2936, May 1977.
+2. Arthur Kosowsky, Michael S. Turner, and Richard Watkins. Gravitational radiation from colliding vacuum bubbles. Phys. Rev. D, 45:4514–4535, Jun 1992.
+3. A. Linde. Decay of the false vacuum at finite temperature. Nuclear Physics B, 223(2):544, 1983.
+4. Daniel Cutting, Mark Hindmarsh, and David J. Weir. Gravitational waves from vacuum first-order phase transitions: From the envelope to the lattice. Phys. Rev. D, 97:123513, Jun 2018.
+5. Daniel Cutting, Elba Granados Escartin, Mark Hindmarsh, and David J. Weir. Gravitational waves from vacuum first-order phase transitions. ii. from thin to thick walls. Phys. Rev. D, 103:023531, Jan 2021.
+6. Juan Garc ́ıa-Bellido, Daniel G. Figueroa, and Alfonso Sastre. Gravitational wave background from reheating after hybrid inflation. Phys. Rev. D, 77:043517, Feb 2008.
 
 
 
