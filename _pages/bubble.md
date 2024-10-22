@@ -18,7 +18,13 @@ In the two months of 2020 (at home), with no prior experience in numerical physi
   Your browser does not support the video tag.
 </video>
 
-Description of the first video.....
+Description:
+
+The potential adopted here is taken from [2]
+$$
+V(\phi) = \frac{\lambda}{8} (\phi^2 - \phi_0^2)^2 + \epsilon \lambda \phi_0^3 (\phi + \phi_0).
+$$
+$\phi = \pm \phi_0$ is the degenerate vacuum. $\epsilon$ is a parameter characterising the breaking degeneracy. It's assumed that the expansion timescale is much shorter than Hubble expansion scale $H^{-1}$ at the time of phase transition, so that the spacetime background is approximated as Minkowski. The bubble field profile was solved from the bounce solution introduced by Coleman [1], who also argued in the same paper that the field evolves classically after the quantum turnelling to form the true vacuum bubbles. The field dynamics is simulated by evolving the equation of motion, and basically captures the oscillating pattern the the collision region mentioned in [2].
 
 ### Video for energy conservation of 1 bubble expansion:
 <video width="640" height="360" controls>
@@ -26,7 +32,8 @@ Description of the first video.....
   Your browser does not support the video tag.
 </video>
 
-Description ...... 
+Description:
+
 
 ### Video for finite temperature collision:
 <video width="640" height="360" controls>
