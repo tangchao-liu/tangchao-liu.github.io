@@ -13,7 +13,6 @@ These notebooks are written for my study of the book *A Relativist's Toolkit: Th
 
 - [Chapter 2, exercise 2](/files/GRnb/EP_chap2_2.nb)
 - [Chapter 2, exercise 3](/files/GRnb/EP_chap2_3.nb)
-- [Chapter 2, exercise 5](/files/GRnb/EP_chap2_5.nb)
 
 ## Free symmetrical top 
 
