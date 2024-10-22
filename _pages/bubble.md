@@ -42,7 +42,7 @@ $$
 V=\frac{1}{2} M^2 \phi^2+\frac{1}{3} \delta \phi^3+\frac{1}{4} \lambda \phi^4.
 $$
 
-The energy conservation check is proposed in [2] and verified here. 
+The energy conservation check is proposed in [2] and is basically verified here. 
 
 ### Video for finite temperature collision:
 <video width="640" height="360" controls>
