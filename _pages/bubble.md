@@ -6,7 +6,8 @@ layout: single
 
 ## Description: 
 
-(just say what you have done)
+During this research, we followed the methods described in [Einstein's paper][1], which introduced the theory of relativity. This approach was further refined in the work of [Hawking and Penrose, 1970][2].
+
 
 ### Video for 2 vacuum bubble collition: 
 <video width="640" height="360" controls>
@@ -36,7 +37,11 @@ Power spectrum of the finite temperature collision:
 (put the figure, with some caption)
 
 
-Main references:
+## Main references
+
+1. [Einstein, A. (1905). On the Electrodynamics of Moving Bodies. Annalen der Physik.](https://en.wikipedia.org/wiki/Annus_Mirabilis_papers)
+2. Hawking, S., & Penrose, R. (1970). The Singularities of Gravitational Collapse and Cosmology. Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences, 314(1519), 529-548.
+
 
 
 <div style="text-align: center;">
