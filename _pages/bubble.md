@@ -52,7 +52,7 @@ The energy conservation check is proposed in [2] and verified here.
 
 Description:
 
-Finite temperature collision of two simultaneously nucleated vacuum bubbles, for the potential in [4,5].
+Finite temperature collision of two simultaneously nucleated vacuum bubbles, for the effective potential model in [4,5].
 
 
 ## Main references
