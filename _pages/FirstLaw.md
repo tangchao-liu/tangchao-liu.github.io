@@ -21,10 +21,15 @@ More details can be found in [Master Thesis (2024)](/files/MT_TangchaoLIU.pdf).
 
 ## References
 [1] Alexandre Le Tiec, Luc Blanchet, and Bernard F. Whiting. First law of binary black hole mechanics in general relativity and post-newtonian theory. Phys. Rev. D, 85:064039, Mar 2012.
+
 [2] Alexandre Le Tiec, Enrico Barausse, and Alessandra Buonanno. Gravitational self-force correction to the binding energy of compact binary systems. Phys. Rev. Lett., 108:131103, Mar 2012.
+
 [3] Aaron Zimmerman, Adam G. M. Lewis, and Harald P. Pfeiffer. Redshift factor and the first law of binary black hole mechanics in numerical simulations. Phys. Rev. Lett., 117:191101, Nov 2016.
+
 [4] Adam Pound, Barry Wardell, Niels Warburton, and Jeremy Miller. Second-order self-force calculation of gravitational binding energy in compact binaries. Physical Review Letters, 124(2), January 2020.
+
 [5] Paul Ramond and Alexandre Le Tiec. Multipolar particles in helically symmetric spacetimes. Classical and Quantum Gravity, 38(13):135022, June 2021.
+
 [6] Paul Ramond and Alexandre Le Tiec. First law of mechanics for spinning compact binaries: Dipolar order. Phys. Rev. D, 106:044057, Aug 2022.
 
 <div style="text-align: center;">
