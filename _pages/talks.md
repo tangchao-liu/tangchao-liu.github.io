@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-#### - *The First Law of Mechanics for Multipolar Particle Binary Systems*
+### - The First Law of Mechanics for Multipolar Particle Binary Systems
 Invited talk at the group seminar at the Institute for Theoretical Physics, Leipzig Germany, November 7, 2024.
