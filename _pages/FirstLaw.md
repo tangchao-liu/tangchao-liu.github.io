@@ -6,7 +6,7 @@ layout: single
 
 <div style="text-align: center;">
   <img src="/files/ConceptMT.jpeg" alt="concept of MT" style="width:95%; margin:10px;">
-  <p><em> Figure on the left is taken from the cover of internship report of Paul Ramond (2018). The right figure is taken from Ref. [5]. </em></p>
+  <p><em> Figure on the left is taken from the cover of internship report of Paul Ramond (2018). The right figure is taken from Ref. [6]. </em></p>
 </div>
 
 ## Description
