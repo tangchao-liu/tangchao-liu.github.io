@@ -13,6 +13,7 @@ These notebooks are written for my study of the book *A Relativist's Toolkit: Th
 
 - [Chapter 2, exercise 2 (no use of xAct)](/files/GRnb/EP_chap2_2.nb)
 - [Chapter 2, exercise 3 (no use of xAct)](/files/GRnb/EP_chap2_3.nb)
+- [Chapter 5, exercise 4 (Kerr geodesics)](/files/GRnb/EP_chap5_4.nb)
 
 ## Free symmetrical top 
 
