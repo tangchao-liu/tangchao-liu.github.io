@@ -24,11 +24,11 @@ author:
   avatar            : "profile.png"
   name              : "Tangchao Liu"
   pronouns          : # example: "she/her"  
-  bio               : "Graduated master student from Institut Polytechnique de Paris. Visiting student at Universität Leipzig."
-  location          : "Leipzig, Germany"
-  employer          : "Universität Leipzig"
+  bio               : "Master's graduate from Institut Polytechnique de Paris."
+  location          : "Palaiseau, France"
+ # employer          : "Universität Leipzig"
   uri               : # URL
-  email             : "tangchao.liu@studserv.uni-leipzig.de" 
+  email             : "tangchao.liu@polytechnique.edu" 
   # personal email      : "tangchaoliu4@gmail.com"
 
   # # Academic websites
