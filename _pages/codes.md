@@ -15,8 +15,3 @@ These notebooks are written for my study of the book *A Relativist's Toolkit: Th
 - [Chapter 2, exercise 3: Timelike congruence in Schwarzschild (no use of xAct)](/files/GRnb/EP_chap2_3.nb)
 - [Chapter 5, exercise 4: Kerr geodesics](/files/GRnb/EP_chap5_4.nb)
 
-## Free symmetrical top 
-
-This is the example immediately before problem 1 in section 35 in the book Mechanics by Landau and Lifshitz. The method here does not make any assumption for the instantaneous moving (body) frame as in the book, since the heavy algebra can be easily handled with Mathematica. The notations and concepts in the notebook largely follow from my [note on rigid body mechanics via a triad formulation](/files/GRnb/TriadRB.pdf), written when I was thinking of the non-relativistic correspondence of a relativistic spinning top in curved spacetime. Although the example here is trivial, it demonstrates the validity of the ideas presented in the notes, which is helpful for understanding spinning particles in curved spacetime by examining its classical counterpart.
-
-- [Free symmetrical top](/files/GRnb/FreeSymTop.nb)
