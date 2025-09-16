@@ -15,3 +15,8 @@ These notebooks are written for my study of the book *A Relativist's Toolkit: Th
 - [Chapter 2, exercise 3: Timelike congruence in Schwarzschild (no use of xAct)](/files/GRnb/EP_chap2_3.nb)
 - [Chapter 5, exercise 4: Kerr geodesics](/files/GRnb/EP_chap5_4.nb)
 
+## Spin-weighted spherical harmonics
+
+This notebook codes the spin-weighted spherical harmonics in [*J. Math. Phys. 8, 2155–2161 (1967)*](https://pubs.aip.org/aip/jmp/article/8/11/2155/380433/Spin-s-Spherical-Harmonics-and) by J. N. Goldberg, A. J. Macfarlane, E. T. Newman, F. Rohrlich and E. C. G. Sudarshan. A few properties of the spin-weighted spherical harmonics are checked to test the validity of the codes. Plots can be added if needed. 
+
+- [Spin-weighted spherical harmonics](/files/GRnb/SpinWeightedSH.nb)
